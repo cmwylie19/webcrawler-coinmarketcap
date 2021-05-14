@@ -5,5 +5,5 @@ _Scrapes crypto data from coin market cap._
 ```
 go get
 
-go run main.go
+go run main.go | head -50
 ```
